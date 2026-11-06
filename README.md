@@ -21,13 +21,9 @@ Supported Platforms
 
 CoD Live Server Browser integrates multiple Call of Duty server platforms and master servers, bringing their server listings together in one place.
 
-Official Website
 
-🌐 "CoDServers – Live Server Browser" (https://codservers.pages.dev/)
+- [Official Website - CoDServers](https://codservers.pages.dev/)
 
-Project Repository
-
-💻 "LTDA-lab / CoD-Live-Server-Browser" (https://github.com/LTDA-lab/CoD-Live-Server-Browser)
 
 ---
 
